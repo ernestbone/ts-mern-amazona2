@@ -8,6 +8,10 @@
     "start": "node backend/build/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestbone/ts-mern-amazona2"
+  },
+  "author": "Ernest Owhiroro",
   "license": "ISC"
 }
